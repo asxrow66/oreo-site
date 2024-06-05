@@ -1,0 +1,12 @@
+body {
+text-align: center;
+}
+
+h1 {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    text-transform: lowercase;
+}
